@@ -1,0 +1,24 @@
+*{margin: 0; padding: 0; font-family:Myriad Pro;}
+.clr{clear: both;}
+.container{ width: 1000px; border: 1px solid; margin: auto;}
+.header{padding: 0px 10px 0px 10px;}
+.logo img{width: 250px; height: 80px; float: left;}
+.title{width: 650px; padding: 30px 0px 0px 5px; float: right;}
+.nav{border: 1px solid;}
+.nav ul{margin: 9px 0px 9px 10px;}
+.nav ul li{display: inline;}
+.nav ul li a{text-decoration: none; font-size: 17px; padding: 10px 25px; margin-left: 18px; color: black;}
+.nav ul li a:hover{background-color: #F15A29; color: white;}
+.nav ul li a.active {background-color: #F15A29; color: white;}
+.left-section{width: 300px; float: left;}
+.services{width: 277px; height: 300px; border: 2px solid #F15A29; margin: 10px;}
+.services img{width: 276px; height: 199px; border-bottom: 3px dotted #F15A29;}
+.services p{font-size: 14px; text-align: justify; padding: 10px;}
+.right-section{width: 650px; float: right; padding: 50px 20px 10px 20px;}
+.footer{border: 1px solid; text-align: center; padding: 15px 0px;}
+.mid-section{padding: 20px;}
+.l-sidebar{float: left; margin-left: 15px;}
+.m-sidebar{float: left; margin-left: 19px;}
+.r-sidebar{float: left; margin-left: 19px;}
+label{font-size: 18px;}
+input{font-size: 18px; padding: 8px 20px;}
